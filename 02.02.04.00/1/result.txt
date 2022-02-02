@@ -1,0 +1,68 @@
+第1世代 : score = 60.6486
+stipe
+world
+bunch
+第3世代 : score = 64.3618
+siler
+campy
+wound
+第8世代 : score = 64.798
+moers
+taluk
+ching
+第10世代 : score = 65.1638
+deals
+hongi
+turfy
+第16世代 : score = 65.9767
+orals
+eight
+dumky
+第18世代 : score = 67.5379
+eorls
+cnida
+thump
+第45世代 : score = 67.5477
+eorls
+inapt
+gucky
+第47世代 : score = 67.9278
+siler
+canto
+dumpy
+第64世代 : score = 68.0252
+loser
+daint
+gucky
+第77世代 : score = 68.2529
+loser
+daint
+chump
+第140世代 : score = 68.3099
+loser
+daint
+humpy
+第165世代 : score = 68.8025
+aeros
+lindy
+chump
+第240世代 : score = 69.1746
+aeros
+lindy
+kutch
+第253世代 : score = 69.1865
+aeros
+lindy
+thumb
+第259世代 : score = 69.3925
+aeros
+lindy
+mutch
+第276世代 : score = 69.5811
+aeros
+clint
+humpy
+第297世代 : score = 69.8844
+aeros
+clint
+dumpy

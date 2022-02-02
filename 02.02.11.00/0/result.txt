@@ -1,0 +1,102 @@
+第1世代 : score = 82.1397
+derma
+unbox
+wilts
+quich
+frosh
+第6世代 : score = 92.2161
+fives
+grand
+clomp
+tawny
+brugh
+第12世代 : score = 98.7784
+neist
+carbo
+gulfy
+javel
+whump
+第15世代 : score = 99.8717
+least
+grund
+zymic
+jupon
+chawk
+第17世代 : score = 101.18
+trode
+nabks
+mixup
+aflaj
+chevy
+第20世代 : score = 105.994
+ribes
+gluon
+watch
+jimpy
+kudzu
+第28世代 : score = 108.501
+neist
+carbo
+gulfy
+kudzu
+whump
+第40世代 : score = 109.194
+arson
+blite
+gucky
+vozhd
+jimpy
+第46世代 : score = 110.013
+taser
+block
+nudzh
+jimpy
+wifty
+第48世代 : score = 110.234
+recit
+nabks
+gulfy
+vozhd
+jimpy
+第51世代 : score = 110.535
+taser
+block
+nudzh
+jimpy
+gruff
+第55世代 : score = 112.465
+neist
+brack
+gulfy
+vozhd
+jimpy
+第85世代 : score = 113.08
+neist
+brack
+gulfy
+vozhd
+whump
+第1330世代 : score = 113.255
+nabes
+trick
+gulfy
+vozhd
+whump
+第2700世代 : score = 113.576
+peans
+trick
+gulfy
+vozhd
+jembe
+第2764世代 : score = 113.84
+peans
+trick
+gulfy
+vozhd
+oxbow
+第3310世代 : score = 113.919
+peans
+trick
+gulfy
+vozhd
+jumby

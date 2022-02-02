@@ -1,0 +1,52 @@
+第1世代 : score = 61.9333
+amirs
+botch
+dynel
+第7世代 : score = 64.7321
+samel
+rifty
+hound
+第11世代 : score = 65.9639
+artis
+cohen
+bulky
+第19世代 : score = 67.1304
+arise
+thowl
+dumky
+第24世代 : score = 67.5112
+reals
+chino
+dumky
+第38世代 : score = 68.6074
+reals
+toing
+dumky
+第52世代 : score = 69.0029
+reals
+point
+dumky
+第57世代 : score = 69.0433
+reals
+tonic
+dumky
+第86世代 : score = 69.27
+reals
+tonic
+dumpy
+第5437世代 : score = 69.3067
+reals
+tondi
+bumpy
+第5476世代 : score = 69.4038
+lares
+tondi
+humpy
+第29239世代 : score = 69.5811
+arose
+clint
+humpy
+第29300世代 : score = 69.8844
+arose
+clint
+dumpy

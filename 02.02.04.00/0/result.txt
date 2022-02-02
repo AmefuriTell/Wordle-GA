@@ -1,0 +1,44 @@
+第1世代 : score = 63.478
+resty
+limba
+cough
+第4世代 : score = 63.5705
+ebons
+plaid
+truck
+第6世代 : score = 65.409
+laris
+foehn
+tumpy
+第11世代 : score = 68.7036
+rales
+tonic
+bumph
+第34世代 : score = 69.27
+rales
+ontic
+dumpy
+第5917世代 : score = 69.2862
+rales
+tondi
+mucky
+第5951世代 : score = 69.3067
+rales
+tondi
+bumpy
+第5956世代 : score = 69.3468
+rales
+tondi
+chump
+第5964世代 : score = 69.4038
+rales
+tondi
+humpy
+第26492世代 : score = 69.5811
+aeros
+clint
+humpy
+第26519世代 : score = 69.8844
+aeros
+clint
+dumpy

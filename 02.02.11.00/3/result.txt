@@ -1,0 +1,78 @@
+第5世代 : score = 93.1049
+belar
+dusky
+nymph
+fecit
+gonzo
+第8世代 : score = 94.2704
+blaze
+snirt
+fudgy
+choux
+whelp
+第11世代 : score = 97.8782
+risen
+pudgy
+thowl
+gamba
+cezve
+第16世代 : score = 100.581
+pelts
+monad
+rugby
+quick
+halva
+第18世代 : score = 103.5
+santo
+puker
+vichy
+fjeld
+zimbs
+第21世代 : score = 104.747
+ardeb
+plugs
+twink
+comfy
+sixth
+第30世代 : score = 108.599
+brane
+clits
+fudgy
+whomp
+jukus
+第39世代 : score = 108.608
+vares
+wight
+block
+jumpy
+nixed
+第41世代 : score = 109.467
+laser
+bitch
+pownd
+fugly
+mujik
+第44世代 : score = 109.71
+vares
+wight
+block
+jumpy
+fundi
+第51世代 : score = 112.183
+vares
+bitch
+pownd
+fugly
+mujik
+第55世代 : score = 114.536
+dears
+wight
+block
+jumpy
+infix
+第65世代 : score = 115.23
+snare
+wight
+block
+jumpy
+fedex

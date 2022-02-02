@@ -1,0 +1,72 @@
+第1世代 : score = 82.7192
+grins
+poxed
+muzak
+wetly
+nazes
+第3世代 : score = 96.2492
+grins
+poxed
+muzak
+wetly
+biach
+第10世代 : score = 98.2257
+borms
+flack
+wizen
+judgy
+tumpy
+第13世代 : score = 98.9525
+rache
+nodus
+flimp
+bawty
+mujik
+第16世代 : score = 99.1922
+rance
+glows
+fixit
+hoved
+jumpy
+第20世代 : score = 102.519
+raser
+blimp
+notch
+judgy
+koffs
+第22世代 : score = 103.059
+borms
+flack
+wizen
+judgy
+tophi
+第28世代 : score = 106.059
+nares
+kotch
+flimp
+judgy
+isbas
+第32世代 : score = 111
+nares
+kotch
+flimp
+judgy
+blitz
+第36世代 : score = 111.438
+nares
+kotch
+flimp
+judgy
+dweeb
+第41世代 : score = 115.943
+nares
+kotch
+flimp
+judgy
+bwazi
+第44世代 : score = 117.304
+nares
+kotch
+flimp
+judgy
+oxbow
