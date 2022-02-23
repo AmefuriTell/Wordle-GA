@@ -15,12 +15,13 @@ int main()
     for (int i = 1; i <= GEN_MAX; i++)
     {
         pop->alternate();
+
         if(pop->ind[0]->eliteLevel == 1)
         {
             std::cout << "第" << i << "世代 : score = ";
             pop->ind[0]->print();
         }
-        std::cerr << "第" << i << "世代 : score = " << pop->ind[0]->score << std::endl;
+        std::cerr << "第" << i << "世代 : score = " << pop->ind[0]->score << " " << pop->ind[0]->eliteLevel << std::endl;
     }
 
     delete pop;

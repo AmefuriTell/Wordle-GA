@@ -19,6 +19,7 @@ Individual::~Individual()
 
 void Individual::evaluate()
 {
+/*
     score = 0;
     std::bitset<26> alfa(0);
 
@@ -38,10 +39,61 @@ void Individual::evaluate()
         increaseScore *= (1.0 + (double)(CHROM_SIZE - i) / CHROM_SIZE) * (alfa.count() - increaseAlfa);
         score += increaseScore;
     }
+*/
+    score = 0;
+    
+    for (int ansd = 0; ansd < DATA_SIZE; ansd++)
+    {
+        std::bitset<DATA_SIZE> possibility;
+        possibility.flip();
+
+        Word ans = data->words[ansd];
+        if(ansd == chrom[0] || ansd == chrom[1] || ansd == chrom[2])continue;
+        //すべての単語解答に対して、どれだけ他の単語から絞れるか、それの最大値をスコアとする
+
+        for (int i = 0; i < CHROM_SIZE; i++)
+        {
+            for (int j = 0; j < ans.word.size(); j++)
+            {
+                //std::cerr << ans.word[j] << " ";
+                //std::cerr << data->words[chrom[i]].word[j] << std::endl;
+                if(ans.word[j] == data->words[chrom[i]].word[j])
+                {
+                    possibility &= data->exist_or_just[(data->words[chrom[i]].word[j] - 'a') * 6 + j];
+                }
+                else if(ans.alfabet[data->words[chrom[i]].word[j] - 'a'])
+                {
+                    possibility &= ~data->exist_or_just[(data->words[chrom[i]].word[j] - 'a') * 6 + j] & data->exist_or_just[(data->words[chrom[i]].word[j] - 'a') * 6 + 5];
+                }
+                else
+                {
+                    possibility &= ~data->exist_or_just[(data->words[chrom[i]].word[j] - 'a') * 6 + 5];
+                }
+            }
+        }
+
+        score = std::max((int)possibility.count(), score);
+    }
+
+    score = DATA_SIZE - score;
 }
 
 void Individual::crossover(Individual *p1, Individual *p2)
 {
+    Individual tmp(data);
+    int point = rand() % (CHROM_SIZE - 1);
+    for (int i = 0; i < point; i++)
+    {
+        tmp.chrom[i] = p1->chrom[i];
+    }
+    for (int i = point; i < CHROM_SIZE; i++)
+    {
+        tmp.chrom[i] = p2->chrom[i];
+    }
+
+    *this = tmp;
+
+/*
     Individual tmp1(data), tmp2(data), max(data);
     max.score = 0;
 
@@ -66,6 +118,7 @@ void Individual::crossover(Individual *p1, Individual *p2)
     }
 
     *this = max;
+*/
 }
 
 void Individual::mutate()

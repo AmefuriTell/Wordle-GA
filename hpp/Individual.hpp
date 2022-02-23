@@ -5,7 +5,7 @@
 #include "Words.hpp"
 #include "Word.hpp"
 
-#define CHROM_SIZE 5
+#define CHROM_SIZE 3
 #define DATA_SIZE 12972
 
 #define MUTATE_PROB 1.0 / CHROM_SIZE
@@ -22,9 +22,10 @@ public:
     void crossover(Individual *p1, Individual *p2);
     void mutate();
     void print();
+    void cerrPrint();
 
     int chrom[CHROM_SIZE];
-    double score;
+    int score;
 
     Words *data;
 

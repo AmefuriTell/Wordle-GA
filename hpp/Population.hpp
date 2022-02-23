@@ -6,7 +6,7 @@
 #include "Words.hpp"
 #include "Word.hpp"
 
-#define POP_SIZE 10000
+#define POP_SIZE 20
 #define ELITE 1
 
 class Population

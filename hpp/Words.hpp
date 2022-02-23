@@ -13,6 +13,7 @@ public:
     ~Words();
 
     void Print();
+    void cerrPrint();
 
     int wordsNum, alfabetNum[26];
     Word *words;

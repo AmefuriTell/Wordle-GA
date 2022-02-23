@@ -38,6 +38,8 @@ void Population::evaluate()
     }
     
     sort(0, POP_SIZE - 1);
+
+    //for (int i = 0; i < POP_SIZE; i++)std::cerr << ind[i]->score << std::endl;
 }
 void Population::sort(int left, int right)
 {
@@ -48,7 +50,7 @@ void Population::sort(int left, int right)
     int last = left;
     for (int i = left + 1; i <= right; i++)
     {
-        if(ind[i]->score <= ind[left]->score)continue;
+        if(ind[i]->score <= ind[left]->score)continue;//降順ソート
 
         last++;
         tmp = ind[last];
@@ -101,7 +103,7 @@ void Population::alternate()
     Individual** tmp = nextind;
     nextind = ind;
     ind = tmp;
-
+    
     evaluate();
 }
 

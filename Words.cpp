@@ -23,7 +23,9 @@ Words::Words(int argn)
         for (int j = 0; j < w.word.size(); j++)
         {
             exist_or_just[(w.word[j] - 'a') * 6 + j][i] = 1;
-            exist_or_just[(w.word[j] - 'a') * 6 + 5] = 1;
+            exist_or_just[(w.word[j] - 'a') * 6 + 5][i] = 1;
+
+            //std::cerr << exist_or_just[(w.word[j] - 'a') * 6 + 5] << " " << (w.word[j] - 'a') * 6 + j << " " << w.word[j] << std::endl;
         }
     }
     
