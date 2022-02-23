@@ -1,4 +1,4 @@
-#include "Words.hpp"
+#include "hpp/Words.hpp"
 
 Words::Words(int argn)
 {

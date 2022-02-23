@@ -1,4 +1,4 @@
-#include "Word.hpp"
+#include "hpp/Word.hpp"
 
 Word::Word()
 {

@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 
-#include "Population.hpp"
+#include "hpp/Population.hpp"
 
 #define GEN_MAX 100000
 
