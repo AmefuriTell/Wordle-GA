@@ -3,13 +3,12 @@
 Words::Words(int argn)
 {
     wordsNum = argn;
-    for (int i = 0; i < 26; i++)
-    {
-        alfabetNum[i] = 0;
-    }
 
+    //データ入力
     words = new Word[wordsNum];
-    
+
+    //アルファベットの出現頻度を数える。
+    for (int i = 0; i < 26; i++)alfabetNum[i] = 0;
     for (int i = 0; i < wordsNum; i++)
     {
         for (int j = 0; j < 26; j++)
