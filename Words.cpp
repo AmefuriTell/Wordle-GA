@@ -7,15 +7,27 @@ Words::Words(int argn)
     //データ入力
     words = new Word[wordsNum];
 
-    //アルファベットの出現頻度を数える。
-    for (int i = 0; i < 26; i++)alfabetNum[i] = 0;
+    //スコア計算前処理 bitを立てていく作業
+    /*
+        1文字目に入ってる
+        2文字目に入ってる
+        3文字目に入ってる
+        4文字目に入ってる
+        5文字目に入ってる
+        文字列に含まれている
+    */
+    exist_or_just.resize(26 * 6);
     for (int i = 0; i < wordsNum; i++)
     {
-        for (int j = 0; j < 26; j++)
+        Word w = words[i];
+        for (int j = 0; j < w.word.size(); j++)
         {
-            if(words[i].alfabet[j])alfabetNum[j] ++;
+            exist_or_just[(w.word[j] - 'a') * 6 + j][i] = 1;
+            exist_or_just[(w.word[j] - 'a') * 6 + 5] = 1;
         }
     }
+    
+    
     
     //for (int i = 0; i < 26; i++)std::cout << (char)(i + 'a') << " " << (double)alfabetNum[i] / wordsNum << std::endl;
 

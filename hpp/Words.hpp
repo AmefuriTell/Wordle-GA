@@ -4,6 +4,8 @@
 #include <bits/stdc++.h>
 #include "Word.hpp"
 
+#define DATA_SIZE 12972
+
 class Words
 {
 public:
@@ -14,6 +16,8 @@ public:
 
     int wordsNum, alfabetNum[26];
     Word *words;
+
+    std::vector<std::bitset<DATA_SIZE>> exist_or_just;
 };
 
 #endif
