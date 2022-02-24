@@ -1,0 +1,44 @@
+第1世代 : score = 12895
+corno
+spite
+games
+第9世代 : score = 12900
+gaper
+louts
+vendu
+第18世代 : score = 12903
+gaper
+bocks
+vendu
+第19世代 : score = 12905
+manly
+louts
+chirp
+第66世代 : score = 12926
+manly
+screw
+adopt
+第99世代 : score = 12927
+mirks
+sated
+gulpy
+第280世代 : score = 12929
+lingy
+sated
+chirm
+第679世代 : score = 12934
+yulan
+sated
+chirm
+第3049世代 : score = 12935
+yokul
+sated
+chirm
+第5970世代 : score = 12939
+blown
+sated
+chirm
+第10321世代 : score = 12942
+blown
+sated
+chirp

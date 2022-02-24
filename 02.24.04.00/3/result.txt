@@ -1,0 +1,36 @@
+第2世代 : score = 12849
+strad
+lodge
+stivy
+第3世代 : score = 12891
+remap
+flite
+shewn
+第7世代 : score = 12924
+remap
+lodge
+sitka
+第307世代 : score = 12927
+frump
+lodge
+sitka
+第386世代 : score = 12928
+ravel
+scowp
+unity
+第674世代 : score = 12932
+laker
+scowp
+unity
+第2719世代 : score = 12935
+maker
+scowp
+unity
+第4379世代 : score = 12937
+maker
+glops
+unity
+第6952世代 : score = 12938
+maker
+glops
+betid

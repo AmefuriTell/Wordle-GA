@@ -1,0 +1,32 @@
+第2世代 : score = 12898
+taroc
+exies
+bling
+第7世代 : score = 12910
+minus
+sulph
+cater
+第11世代 : score = 12920
+miked
+sulph
+cater
+第23世代 : score = 12927
+gonia
+sulph
+cater
+第261世代 : score = 12936
+dingy
+sulph
+cater
+第1374世代 : score = 12937
+dingy
+plows
+cater
+第1659世代 : score = 12938
+kindy
+plows
+cater
+第12171世代 : score = 12939
+kindy
+golps
+cater
