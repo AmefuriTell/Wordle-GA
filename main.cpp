@@ -16,7 +16,7 @@ int main()
     {
         pop->alternate();
 
-        if(pop->ind[0]->eliteLevel == 1)
+        if(pop->ind[0]->eliteLevel == 0)
         {
             std::cout << "第" << i << "世代 : score = ";
             pop->ind[0]->print();
