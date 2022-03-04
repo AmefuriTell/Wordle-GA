@@ -42,3 +42,11 @@ chirm
 blown
 sated
 chirp
+第50516世代 : score = 12943
+blown
+sated
+crimp
+第62285世代 : score = 12945
+klong
+sated
+crimp

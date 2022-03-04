@@ -34,3 +34,11 @@ unity
 maker
 glops
 betid
+第17332世代 : score = 12943
+ranch
+glops
+betid
+第47806世代 : score = 12944
+maund
+glops
+kiter
